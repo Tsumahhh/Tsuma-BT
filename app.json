@@ -1,7 +1,7 @@
 {
   "name": "Tsuma-BT",
   "description": "A WhatsApp Bot Created By David Cyril",
-  "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
+  "logo": "https://imgur.com/MdLGp3Y",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
   "stack": "heroku-24",
